@@ -969,6 +969,11 @@ template {
   width: 500px;
 }
 
+.size{
+  width:50%;
+  height:10px;
+}
+
 @media only screen and (max-width: 600px) {
   .send {
     width: 290px;
